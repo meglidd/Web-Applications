@@ -1,0 +1,31 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "portal",
+      "content": "Some content",
+      "author": "meg"
+    }
+  ],
+  "users": [
+    {
+      "email": "meg@test.com",
+      "password": "$2a$10$49J8XSE7YnrysHiWMUFMqui8ZvDv9CV2VLXU/3Xn6/CSLPGHTVCp.",
+      "id": 1
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "primaryColor": "deepskyblue",
+      "secondaryColor": "coral"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "content": "Some content",
+      "author": "meg"
+    }
+  ]
+}
